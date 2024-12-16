@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.mycompany.sql_trial","l":"ADD_MENU"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.sql_trial","l":"POS"},{"p":"com.mycompany.sql_trial","l":"SQL_TRIAL"},{"p":"com.mycompany.sql_trial","l":"TRIAL"}];updateSearchResults();
